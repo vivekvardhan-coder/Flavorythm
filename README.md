@@ -1,5 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/df17efcd-b795-449f-9fe2-6ff23deb036d)
- Flavorythm
+# 🍽️ Flavorythm
 
 > **Discover Amazing Recipes from Around the World**
 
