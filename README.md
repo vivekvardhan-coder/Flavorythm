@@ -2,7 +2,7 @@
 
 > **Discover Amazing Recipes from Around the World**
 
-[![Live Demo](https://flavorythm.netlify.app/)]
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://flavorythm.netlify.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
@@ -50,16 +50,6 @@ Flavorythm is a modern, intuitive recipe discovery platform that brings the worl
 ![Recipe Details](https://github.com/user-attachments/assets/d64340bc-7c7b-4d62-bcab-ae1921e13237)
 *Comprehensive recipe pages with video tutorials*
 
-## 🛠️ Built With
-
-- **Frontend:** [Your Frontend Technology]
-- **Backend:** [Your Backend Technology]
-- **Database:** [Your Database]
-- **Video Integration:** YouTube API
-- **Styling:** [CSS Framework/Library]
-- **Deployment:** [Netlify]
-
-
 ## 🎯 Usage
 
 ### For Recipe Enthusiasts
@@ -73,16 +63,6 @@ Flavorythm is a modern, intuitive recipe discovery platform that brings the worl
 - **Customization**: Modular architecture for easy feature additions
 - **Responsive**: Mobile-first design principles
 
-## 📋 API Documentation
-
-### Recipe Endpoints
-```
-GET /api/recipes          # Get all recipes
-GET /api/recipes/:id      # Get specific recipe
-GET /api/categories       # Get all categories
-GET /api/search?q=query   # Search recipes
-```
-
 ## 🤝 Contributing
 
 We love contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
@@ -93,14 +73,6 @@ We love contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/flavorythm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/flavorythm?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/flavorythm)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/flavorythm)
 
 ## 🏆 Achievements
 
